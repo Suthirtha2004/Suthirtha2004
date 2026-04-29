@@ -107,7 +107,7 @@ Building full-stack applications, AI systems, and real-world IoT solutions.
 
 ## 📫 Connect With Me
 - 📧 Email: suthirtha.dey.dev@gmail.com  
-- 💼 LinkedIn: YOUR LINK HERE  
+- 💼 LinkedIn: https://www.linkedin.com/in/suthirtha-dey-942478273/
 - 🧠 GitHub: https://github.com/Suthirtha2004  
 
 ---
