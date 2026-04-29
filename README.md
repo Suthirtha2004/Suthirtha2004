@@ -1,67 +1,95 @@
 <h1 align="center">Hi 👋, I'm Suthirtha Dey</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast | IoT Systems Builder</h3>
+<h3 align="center">MERN Stack Developer | GenAI Enthusiast | IoT Systems Engineer</h3>
 
 <p align="center">
-Building intelligent systems that connect software, hardware, and data.
+Building full-stack applications, AI systems, and real-world IoT solutions.
 </p>
+
+---
+
+## 🧠 Current Projects
+
+### 🗂️ TaskFlow – MERN Productivity System
+- Full-stack task management application
+- React frontend + Node.js/Express backend
+- REST API-based architecture
+- Focus: productivity + workflow optimization
+
+---
+
+### 🤖 RAG AI System (GenAI Project)
+- Retrieval-Augmented Generation pipeline
+- Combines document retrieval + LLM responses
+- Focus on real-world AI applications using knowledge systems
+
+---
+
+### 🪖 Smart Helmet System (IoT)
+- ESP32-based safety wearable system
+- Multi-sensor integration (motion, temperature, light)
+- ESP-NOW based device communication
+- Real-time hazard detection system
 
 ---
 
 ## 🚀 About Me
 - 🎓 Computer Science & Engineering undergraduate (India)
-- 💻 Full Stack Developer focused on building scalable web applications
-- 🤖 AI/ML enthusiast exploring predictive systems and intelligent automation
-- 🔧 IoT builder working with ESP32 and real-time sensor systems
-- 🛡️ Interested in Cybersecurity, System Design, and Edge Intelligence
-- 📍 Passionate about turning ideas into deployable real-world systems
+- 💻 MERN Stack Developer building scalable web applications
+- 🤖 Exploring Generative AI, LLMs, and RAG architectures
+- 🔧 IoT developer working with ESP32 systems
+- 🎨 Learning UI/UX design using Figma
+- 🧠 Currently learning TypeScript for scalable development
 
 ---
 
-## 🔬 What I'm Currently Working On
-- 🪖 **Smart Safety Helmet System**
-  - ESP32-based multi-sensor wearable (MPU6050, DS18B20, BH1750)
-  - Real-time hazard detection + alert system
-  - ESP-NOW based multi-device communication
+## 🧩 Tech Stack
 
-- 🌐 **Live Monitoring Dashboard**
-  - Real-time data visualization from IoT devices
-  - Web-based monitoring system for safety analytics
-
-- 🤖 **AI-based Extensions**
-  - Exploring ML models for short-term hazard prediction
-  - Sensor data-based anomaly detection
+### 🌐 MERN Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-
-### 🧠 Programming
-`C++` `Python` `JavaScript` `C`
-
-### 🌐 Full Stack Development
-`HTML` `CSS` `JavaScript` `Node.js (basic)` `Express (learning)` `REST APIs`
-
-### 🤖 AI / ML
-`Machine Learning Basics` `Pandas` `NumPy` `Data Preprocessing`
-
-### 🔧 IoT & Embedded Systems
-`ESP32` `Arduino` `ESP-NOW` `MQTT` `Sensor Integration` `Real-time Systems`
-
-### 🛠 Tools & Platforms
-`Git` `GitHub` `VS Code` `Linux (basic)` `Postman`
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 🤖 AI / GenAI
+- Generative AI (LLMs, RAG systems)
+- Prompt engineering (learning)
+- Data processing with Pandas & NumPy
 
-### 🪖 Smart Safety Helmet System
-Real-time IoT wearable system for hazard detection using multiple sensors and ESP32 communication.
+---
 
-### 🌐 IoT Live Monitoring Dashboard
-Web-based system to visualize real-time sensor data from embedded devices.
+### 🔧 IoT / Embedded
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 
-### 🔗 Multi-Node ESP-NOW Communication System
-Wireless sensor network for real-time data exchange between multiple IoT devices.
+- ESP32 development
+- ESP-NOW communication
+- Sensor integration systems
+
+---
+
+### 🎨 Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+- UI/UX design (Figma)
+- Wireframing & prototyping
+
+---
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
@@ -79,10 +107,10 @@ Wireless sensor network for real-time data exchange between multiple IoT devices
 
 ## 📫 Connect With Me
 - 📧 Email: suthirtha.dey.dev@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
+- 💼 LinkedIn: YOUR LINK HERE  
 - 🧠 GitHub: https://github.com/Suthirtha2004  
 
 ---
 
 ## ⚡ Motto
-> "Build systems that think, connect, and respond in real time."
+> "Build intelligent systems across web, AI, and hardware."
