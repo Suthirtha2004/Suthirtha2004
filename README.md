@@ -130,17 +130,11 @@ ESP32 • Arduino • Sensors • ESP-NOW • IoT Systems
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Suthirtha2004&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suthirtha2004&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suthirtha2004&theme=github_dark" 
   />
 </p>
 
@@ -150,10 +144,9 @@ ESP32 • Arduino • Sensors • ESP-NOW • IoT Systems
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Suthirtha2004&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=Suthirtha2004&theme=react&layout=compact" 
   />
 </p>
-
 ---
 
 # 📈 Current Focus
