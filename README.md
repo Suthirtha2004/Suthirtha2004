@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suthirtha Dey</h1>
 
 <h3 align="center">
-MERN Stack Developer | GenAI Enthusiast | IoT Systems Engineer
+MERN Stack Developer | GenAI Enthusiast | Software Developer
 </h3>
 
 <p align="center">
-Building full-stack applications, AI systems, and real-world IoT solutions.
+Building full-stack applications, AI systems, and real-world scalable solutions.
 </p>
 
 <p align="center">
@@ -21,11 +21,25 @@ Building full-stack applications, AI systems, and real-world IoT solutions.
 - 🤖 Exploring Generative AI, LLMs, and RAG architectures
 - 🔧 IoT developer working with ESP32 systems
 - 🎨 Learning UI/UX design using Figma
-- 🧠 Currently learning TypeScript for scalable development
+- 🧠 Currently learning Generative AI and NextJS
 
 ---
 
-# 🧠 Current Projects
+# 🧠 Current 
+
+## 👨‍💻 AutoDev Squad 
+AI-powered developer collaboration platform designed to help teams manage projects efficiently. 
+- Multi-user workspaces
+- Project management
+- AI-powered task summarization
+- Team collaboration
+- Secure authentication
+- Modern responsive UI
+
+###  ⚙️ Tech Stack 
+React • TypeScript • Node.js • Express • Supabase • Generative AI
+
+---
 
 ## 🗂️ TaskFlow – AI Productivity System
 - Full-stack task management platform
@@ -49,24 +63,13 @@ Python • LangChain • Vector Databases • LLM APIs
 
 ---
 
-## 🪖 Smart Helmet System (IoT)
-- ESP32-based wearable safety system
-- Multi-sensor hazard detection
-- ESP-NOW based wireless communication
-- Real-time monitoring dashboard
-
-### ⚙️ Tech Stack
-ESP32 • Arduino • Sensors • ESP-NOW • IoT Systems
-
----
-
 # 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| TaskFlow | AI-powered productivity & task management system | MERN Stack |
-| Smart Helmet | ESP32 real-time worker safety monitoring system | IoT + ESP32 |
-| RAG AI System | AI retrieval & response generation pipeline | Python + GenAI |
+| AutoDev Squad | Full-stack AI-powered collaboration platform with workspaces, projects, and intelligent task management | MERN + TypeScript + Supabase |
+| TaskFlow | Productivity platform featuring task management, analytics, and AI assistance | MERN Stack |
+| RAG AI System | Retrieval-Augmented Generation system for knowledge retrieval and intelligent responses | Python + LangChain + LLMs |
 
 ---
 
@@ -151,11 +154,12 @@ ESP32 • Arduino • Sensors • ESP-NOW • IoT Systems
 
 # 📈 Current Focus
 
-- Advanced MERN architecture
-- AI-powered productivity systems
-- RAG & LLM integrations
-- IoT communication systems
-- TypeScript & scalable frontend development
+- Advanced MERN Development
+- Next JS
+- AI Agents & Agentic Workflows
+- Retrieval-Augmented Generation (RAG)
+- Full-Stack SaaS Development
+- System Design Fundamentals
 
 ---
 
