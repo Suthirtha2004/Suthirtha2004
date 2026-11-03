@@ -1,7 +1,7 @@
 <h1 align="center">🌙 Suthirtha Dey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Full Stack+%26+AI+Engineering;Building+systems+that+solve+real+problems;Exploring+AI%2C+Software+%26+Distributed+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=700&lines=Backend+%26+Full+Stack+Developer;Exploring+AI+Engineering+%26+LLMs;Building+Scalable+%26+Intelligent+Systems;Learning.+Building.+Contributing." />
 </p>
 
 <p align="center">
