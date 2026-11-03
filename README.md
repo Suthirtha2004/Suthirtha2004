@@ -123,10 +123,6 @@ Exploring retrieval-augmented generation and intelligent knowledge systems.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:0D1117&height=120&section=footer" width="100%" />
-</p>
-
-<p align="center">
   <i>"There's chaos in you. Embrace the chaos."</i>
   <br/>
   <sub>— Khonshu's chosen. 🌙</sub>
