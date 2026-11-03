@@ -1,176 +1,105 @@
-<h1 align="center">Hi 👋, I'm Suthirtha Dey</h1>
-
-<h3 align="center">
-MERN Stack Developer | GenAI Enthusiast | Software Developer
-</h3>
+# 🌙 Suthirtha Dey
 
 <p align="center">
-Building full-stack applications, AI systems, and real-world scalable solutions.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Backend+%26+AI+Engineering;Building+systems+that+solve+real+problems;Exploring+the+intersection+of+AI+%26+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suthirtha2004&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Suthirtha2004">
+    <img src="https://img.shields.io/badge/GitHub-Suthirtha2004-161B22?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/suthirtha-dey-942478273/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:suthirtha.dey.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+### `$ whoami`
 
-- 🎓 Computer Science & Engineering undergraduate from India
-- 💻 MERN Stack Developer building scalable web applications
-- 🤖 Exploring Generative AI, LLMs, and RAG architectures
-- 🔧 IoT developer working with ESP32 systems
-- 🎨 Learning UI/UX design using Figma
-- 🧠 Currently learning Generative AI and NextJS
+Computer Science undergraduate interested in building reliable software, intelligent systems, and scalable backend architectures.
 
----
-
-# 🧠 Current 
-
-## 👨‍💻 AutoDev Squad 
-AI-powered developer collaboration platform designed to help teams manage projects efficiently. 
-- Multi-user workspaces
-- Project management
-- AI-powered task summarization
-- Team collaboration
-- Secure authentication
-- Modern responsive UI
-
-###  ⚙️ Tech Stack 
-React • TypeScript • Node.js • Express • Supabase • Generative AI
+- Building full-stack applications and backend services.
+- Exploring LLMs, RAG pipelines, and AI agents.
+- Learning system design, software architecture, and distributed systems.
+- Experimenting with IoT, embedded systems, and real-time communication.
+- Interested in open source and engineering problems worth solving.
 
 ---
 
-## 🗂️ TaskFlow – AI Productivity System
-- Full-stack task management platform
-- React frontend + Node.js/Express backend
-- AI task summarizer & task assistant chatbot
-- Role-based authentication system
-- Productivity dashboard with analytics
+### `$ current_operations`
 
-### ⚙️ Tech Stack
-React • Node.js • Express • MongoDB • JWT • REST API
-
----
-
-## 🤖 RAG AI System
-- Retrieval-Augmented Generation pipeline
-- Combines document retrieval + LLM responses
-- Experimenting with knowledge systems & AI workflows
-
-### ⚙️ Tech Stack
-Python • LangChain • Vector Databases • LLM APIs
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
+| Project | What I'm working on | Stack |
 |---|---|---|
-| AutoDev Squad | Full-stack AI-powered collaboration platform with workspaces, projects, and intelligent task management | MERN + TypeScript + Supabase |
-| TaskFlow | Productivity platform featuring task management, analytics, and AI assistance | MERN Stack |
-| RAG AI System | Retrieval-Augmented Generation system for knowledge retrieval and intelligent responses | Python + LangChain + LLMs |
+| **AutoDev Squad** | AI-powered developer collaboration platform | React, TypeScript, Node.js, Supabase |
+| **TaskFlow** | Productivity platform with AI-assisted task management | React, Express, MongoDB |
+| **RAG Systems** | Document retrieval and context-aware LLM applications | Python, LangChain, Vector DBs |
 
 ---
 
-# 🧩 Tech Stack
+### `$ tech_stack`
 
-## 🌐 MERN Stack
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
+`C` `C++` `Python` `JavaScript` `TypeScript`
 
----
+**Backend & Databases**
 
-## 💻 Languages
+`Node.js` `Express.js` `REST APIs` `MongoDB` `PostgreSQL` `MySQL` `Supabase`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp" />
-</p>
+**Frontend**
 
----
+`React` `HTML` `CSS`
 
-## 🤖 AI / Generative AI
+**AI / Machine Learning**
 
-- Generative AI (LLMs, RAG systems)
-- Prompt engineering
-- Data processing with Pandas & NumPy
-- AI workflow experimentation
+`LangChain` `RAG` `LLM APIs` `Prompt Engineering` `Pandas` `NumPy`
 
----
+**IoT & Embedded Systems**
 
-## 🔧 IoT / Embedded Systems
+`ESP32` `ESP-NOW` `Arduino`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
+**Developer Tools**
 
-- ESP32 development
-- ESP-NOW communication
-- Sensor integration systems
-- Real-time monitoring architectures
+`Git` `GitHub` `Postman` `Figma` `VS Code`
 
 ---
 
-## 🎨 Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-- UI/UX Design
-- Wireframing
-- Prototyping
-
----
-
-## 🛠 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
-</p>
-
----
-
-# 📊 GitHub Activity
+### `$ github_analytics`
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suthirtha2004&theme=github_dark" 
-  />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suthirtha2004&theme=github_dark" alt="GitHub contribution overview" />
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Suthirtha2004&theme=react&layout=compact" 
-  />
+  <img height="165" src="https://streak-stats.demolab.com?user=Suthirtha2004&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suthirtha2004&theme=github_dark" alt="GitHub statistics" />
 </p>
----
-
-# 📈 Current Focus
-
-- Advanced MERN Development
-- Next JS
-- AI Agents & Agentic Workflows
-- Retrieval-Augmented Generation (RAG)
-- Full-Stack SaaS Development
-- System Design Fundamentals
 
 ---
 
-# 📫 Connect With Me
+### `$ beyond_the_terminal`
 
-- 📧 Email: suthirtha.dey.dev@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/suthirtha-dey-942478273/
-- 🧠 GitHub: https://github.com/Suthirtha2004
+- **Engineering:** Understanding systems beyond the surface.
+- **Learning:** Building fundamentals before chasing frameworks.
+- **Open Source:** Learning, contributing, and collaborating.
+- **Curiosity:** Always exploring what's possible beyond the obvious.
 
 ---
 
-# ⚡ Motto
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:30363D,100:0D1117&height=110&section=footer" width="100%" />
+</p>
 
-> "Build intelligent systems across web, AI, and hardware."
+<p align="center">
+  <i>"The moon is a reminder that even in darkness, there is light."</i>
+  <br/>
+  <sub>— Under the watch of Khonshu. 🌙</sub>
+</p>
+
+<p align="center">
+  <b>One mission. Different perspectives. No turning back.</b>
+</p>
