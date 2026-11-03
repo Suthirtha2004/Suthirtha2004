@@ -26,35 +26,11 @@ Computer Science undergraduate passionate about backend engineering, AI systems,
 
 ### `what_im_building`
 
-**01 / AutoDev Squad**
-
-AI-powered developer collaboration platform.
-
-- Multi-user workspaces and project management
-- AI-powered task summarization
-- Team collaboration and secure authentication
-
-`React` `TypeScript` `Node.js` `Express` `Supabase`
-
-**02 / TaskFlow**
-
-AI-assisted productivity and task management platform.
-
-- Task management and productivity analytics
-- AI task summarization and assistant chatbot
-- Role-based authentication
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-**03 / RAG Systems**
-
-Exploring retrieval-augmented generation and intelligent knowledge systems.
-
-- Document ingestion and retrieval
-- Context-aware LLM responses
-- Vector search and AI workflows
-
-`Python` `LangChain` `Vector Databases` `LLM APIs`
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🚀 **AutoDev Squad** | AI-powered developer collaboration platform with intelligent task management and team workspaces. | React · TypeScript · Node.js · Supabase |
+| 🗂️ **TaskFlow** | Full-stack productivity platform with AI task summarization, chatbot assistance, and analytics. | React · Express · MongoDB · JWT |
+| 🤖 **RAG AI Systems** | Exploring document retrieval, vector search, and context-aware LLM applications. | Python · LangChain · Vector DBs |
 
 ---
 
