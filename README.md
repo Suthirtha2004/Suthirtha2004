@@ -1,103 +1,135 @@
 # 🌙 Suthirtha Dey
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Backend+%26+AI+Engineering;Building+systems+that+solve+real+problems;Exploring+the+intersection+of+AI+%26+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Backend+%26+AI+Engineering;Building+systems+that+solve+real+problems;Exploring+AI%2C+Software+%26+Distributed+Systems" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Suthirtha2004">
-    <img src="https://img.shields.io/badge/GitHub-Suthirtha2004-161B22?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/suthirtha-dey-942478273/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:suthirtha.dey.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail" />
-  </a>
+  <a href="https://github.com/Suthirtha2004"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suthirtha-dey-942478273/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suthirtha.dey.dev@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### `$ whoami`
+### `whoami`
 
-Computer Science undergraduate interested in building reliable software, intelligent systems, and scalable backend architectures.
+Computer Science undergraduate passionate about backend engineering, AI systems, and building software that solves real-world problems.
 
-- Building full-stack applications and backend services.
-- Exploring LLMs, RAG pipelines, and AI agents.
-- Learning system design, software architecture, and distributed systems.
-- Experimenting with IoT, embedded systems, and real-time communication.
-- Interested in open source and engineering problems worth solving.
-
----
-
-### `$ current_operations`
-
-| Project | What I'm working on | Stack |
-|---|---|---|
-| **AutoDev Squad** | AI-powered developer collaboration platform | React, TypeScript, Node.js, Supabase |
-| **TaskFlow** | Productivity platform with AI-assisted task management | React, Express, MongoDB |
-| **RAG Systems** | Document retrieval and context-aware LLM applications | Python, LangChain, Vector DBs |
+- ⚙️ Developing full-stack applications and backend services.
+- 🤖 Exploring LLMs, RAG pipelines, and AI agents.
+- 🧠 Strengthening foundations in DSA, system design, and software architecture.
+- 🔌 Experimenting with IoT, ESP32, and real-time communication.
+- 🌐 Interested in open source and collaborative engineering.
 
 ---
 
-### `$ tech_stack`
+### `what_im_building`
+
+**01 / AutoDev Squad**
+
+AI-powered developer collaboration platform.
+
+- Multi-user workspaces and project management
+- AI-powered task summarization
+- Team collaboration and secure authentication
+
+`React` `TypeScript` `Node.js` `Express` `Supabase`
+
+**02 / TaskFlow**
+
+AI-assisted productivity and task management platform.
+
+- Task management and productivity analytics
+- AI task summarization and assistant chatbot
+- Role-based authentication
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+**03 / RAG Systems**
+
+Exploring retrieval-augmented generation and intelligent knowledge systems.
+
+- Document ingestion and retrieval
+- Context-aware LLM responses
+- Vector search and AI workflows
+
+`Python` `LangChain` `Vector Databases` `LLM APIs`
+
+---
+
+### `tech_stack`
 
 **Languages**
 
-`C` `C++` `Python` `JavaScript` `TypeScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+</p>
 
 **Backend & Databases**
 
-`Node.js` `Express.js` `REST APIs` `MongoDB` `PostgreSQL` `MySQL` `Supabase`
-
-**Frontend**
-
-`React` `HTML` `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase&theme=dark" />
+</p>
 
 **AI / Machine Learning**
 
-`LangChain` `RAG` `LLM APIs` `Prompt Engineering` `Pandas` `NumPy`
-
-**IoT & Embedded Systems**
-
-`ESP32` `ESP-NOW` `Arduino`
-
-**Developer Tools**
-
-`Git` `GitHub` `Postman` `Figma` `VS Code`
-
----
-
-### `$ github_analytics`
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suthirtha2004&theme=github_dark" alt="GitHub contribution overview" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Suthirtha2004&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suthirtha2004&theme=github_dark" alt="GitHub statistics" />
+**IoT / Embedded Systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+</p>
+
+`ESP32` `ESP-NOW` `Sensor Integration`
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase&theme=dark" />
 </p>
 
 ---
 
-### `$ beyond_the_terminal`
+### `github_analytics`
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suthirtha2004&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Suthirtha2004&theme=github-dark-blue&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suthirtha2004&theme=github_dark" />
+</p>
+
+---
+
+### `beyond_the_terminal`
 
 - **Engineering:** Understanding systems beyond the surface.
-- **Learning:** Building fundamentals before chasing frameworks.
-- **Open Source:** Learning, contributing, and collaborating.
-- **Curiosity:** Always exploring what's possible beyond the obvious.
+- **Learning:** Fundamentals first, frameworks second.
+- **Open Source:** Contributing, collaborating, and growing.
+- **Curiosity:** Always exploring what lies beyond the obvious.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:30363D,100:0D1117&height=110&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:0D1117&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <i>"The moon is a reminder that even in darkness, there is light."</i>
+  <i>"There's chaos in you. Embrace the chaos."</i>
   <br/>
-  <sub>— Under the watch of Khonshu. 🌙</sub>
+  <sub>— Khonshu's chosen. 🌙</sub>
 </p>
 
 <p align="center">
